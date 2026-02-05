@@ -22,7 +22,7 @@ This is also called scaling out. This means we add more servers to our system. I
 * **Pros:** We can keep adding servers forever. If one server breaks, the others stay online.
 * **Cons:** It is more complex to manage. We need to sync data between the servers.
 
-##### Load Balancers
+### Load Balancers
 
 If we choose horizontal scaling, we need a load balancer. A load balancer just distributes the traffic to different servers depending on teh load on one server and also reduces latency for different country users, thus improving the loading time. It accepts requests from users and sends them to the best available server.
 
