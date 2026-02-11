@@ -1,1 +1,1 @@
-Github Repo for Life Skill Assignment Submission
+Github Repo for Life Skill Assignment Submissions
